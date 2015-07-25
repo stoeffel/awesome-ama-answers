@@ -6,6 +6,31 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 Check out [awesome amas](https://github.com/sindresorhus/amas) to find amas of your favorite dev.
 
+***
+
+**Q:** "How do you think the web will look like in 10 years?" **– [@sindresorhus](https://github.com/sindresorhus)**
+
+**A:** "This is a million :dollar: :moneybag: question!
+
+Considering the phase at which web is growing, compared to what we had in 2005 and what we have now, I would guess that web would grow out of browsers, handheld devices and reach to things that are connected.
+
+It would be great to see things like:
+
+A wall whose color can be controlled by CSS :wink:
+
+A mirror in your bathroom which shows your daily rss feeds.
+
+Web assembly handling bots.
+
+A book when opened would show a 3D view of a website.
+
+Neural networks, would connect to the web. (You think it types :wink:)
+
+Weirdest of things we can think of might become a reality!"
+
+  **– [@hemanth](https://github.com/hemanth)**
+  
+***
 
 ## License
 
