@@ -1,10 +1,10 @@
 # awesome-ama-answers
 
-> A curated list of awesome ama answers
+> A curated list of awesome AMA answers
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-Check out [awesome amas](https://github.com/sindresorhus/amas) to find amas of your favorite dev.
+Check out [awesome AMAs](https://github.com/sindresorhus/amas) to find amas of your favorite dev.
 
 ***
 
@@ -39,7 +39,7 @@ Weirdest of things we can think of might become a reality!"
 
 ## Contribution
 
-:star: If you think a answer from a ama is worth sharing please open a PR. :star:
+:star: If you think an answer from an AMA is worth sharing please open a PR. :star:
 
 ## License
 
