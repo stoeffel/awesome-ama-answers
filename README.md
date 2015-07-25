@@ -8,12 +8,13 @@ Check out [awesome amas](https://github.com/sindresorhus/amas) to find amas of y
 
 ***
 
-**Q:** 
-> "How do you think the web will look like in 10 years?" **– [@sindresorhus](https://github.com/sindresorhus)**
+> **Q:** "How do you think the web will look like in 10 years?" **– [@sindresorhus](https://github.com/sindresorhus)**
 
-**A:** 
-> "This is a million :dollar: :moneybag: question!
-Considering the phase at which web is growing, compared to what we had in 2005 and what we have now, I would guess that web would grow out of browsers, handheld devices and reach to things that are connected.
+&nbsp;
+
+> **A:** "This is a million :dollar: :moneybag: question!
+Considering the phase at which web is growing, compared to what we had in 2005 and what we have now, I would guess that web
+would grow out of browsers, handheld devices and reach to things that are connected.
 It would be great to see things like:
 A wall whose color can be controlled by CSS :wink:
 A mirror in your bathroom which shows your daily rss feeds.
