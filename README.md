@@ -26,6 +26,15 @@ Weirdest of things we can think of might become a reality!"
   
 ***
 
+***
+
+> **Q:** "One-line node modules" **– [@hemanth](https://github.com/hemanth)**
+
+> **A:** 
+[Answer](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328) - [@sindresorhus](https://github.com/sindresorhus)
+  
+***
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
