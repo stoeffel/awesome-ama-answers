@@ -35,6 +35,12 @@ Weirdest of things we can think of might become a reality!"
   
 ***
 
+
+
+## Contribution
+
+:star: If you think a answer from a ama is worth sharing please open a PR. :star:
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
