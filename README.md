@@ -4,7 +4,7 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-Check out [awesome AMAs](https://github.com/sindresorhus/amas) to find amas of your favorite dev.
+Check out [awesome AMAs](https://github.com/sindresorhus/amas) to find AMAs of your favorite dev.
 
 ***
 
