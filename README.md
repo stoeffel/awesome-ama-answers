@@ -35,6 +35,14 @@ Weirdest of things we can think of might become a reality!"
   
 ***
 
+***
+
+> **Q:** "What do u think about python?" **- [@harshasrinivas](https://github.com/harshasrinivas)**
+
+> **A:** [Answer](https://github.com/passy/ama/issues/10#issuecomment-118288433) - [@passy](https://github.com/passy)
+
+***
+
 
 
 ## Contribution
