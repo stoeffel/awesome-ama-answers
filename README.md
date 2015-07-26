@@ -10,19 +10,9 @@ Check out [awesome AMAs](https://github.com/sindresorhus/amas) to find AMAs of y
 
 > **Q:** "How do you think the web will look like in 10 years?" **– [@sindresorhus](https://github.com/sindresorhus)**
 
-&nbsp;
-
-> **A:** "This is a million :dollar: :moneybag: question!
-Considering the phase at which web is growing, compared to what we had in 2005 and what we have now, I would guess that web
-would grow out of browsers, handheld devices and reach to things that are connected.
-It would be great to see things like:
-A wall whose color can be controlled by CSS :wink:
-A mirror in your bathroom which shows your daily rss feeds.
-Web assembly handling bots.
-A book when opened would show a 3D view of a website.
-Neural networks, would connect to the web. (You think it types :wink:)
-Weirdest of things we can think of might become a reality!"
-  **– [@hemanth](https://github.com/hemanth)**
+> **A:** 
+[Answer](https://github.com/hemanth/ama/issues/13#issuecomment-124816126)
+ **– [@hemanth](https://github.com/hemanth)**
   
 ***
 
@@ -31,15 +21,17 @@ Weirdest of things we can think of might become a reality!"
 > **Q:** "One-line node modules" **– [@hemanth](https://github.com/hemanth)**
 
 > **A:** 
-[Answer](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328) - [@sindresorhus](https://github.com/sindresorhus)
+[Answer](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328) 
+**–  [@sindresorhus](https://github.com/sindresorhus)**
   
 ***
 
 ***
 
-> **Q:** "What do u think about python?" **- [@harshasrinivas](https://github.com/harshasrinivas)**
+> **Q:** "What do u think about python?" **– [@harshasrinivas](https://github.com/harshasrinivas)**
 
-> **A:** [Answer](https://github.com/passy/ama/issues/10#issuecomment-118288433) - [@passy](https://github.com/passy)
+> **A:** [Answer](https://github.com/passy/ama/issues/10#issuecomment-118288433)
+**– [@passy](https://github.com/passy)**
 
 ***
 
