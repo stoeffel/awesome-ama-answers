@@ -35,6 +35,14 @@ Check out [awesome AMAs](https://github.com/sindresorhus/amas) to find AMAs of y
 
 ***
 
+***
+
+> **Q:** "What's your trick for dealing with shitty GitHub issues?" **– [@passy](https://github.com/passy)**
+
+> **A:** [Answer](https://github.com/arthurvr/ama/issues/14#issuecomment-118503700)
+**– [@arthurvr](https://github.com/arthurvr)**
+
+***
 
 
 ## Contribution
