@@ -44,6 +44,15 @@ Check out [awesome AMAs](https://github.com/sindresorhus/amas) to find AMAs of y
 
 ***
 
+***
+
+> **Q:** "How do you Open Source?" **– [@jdpedrie](https://github.com/jdpedrie)**
+
+> **A:** [Answer](https://github.com/stephenplusplus/ama/issues/17#issuecomment-118088744)
+**– [@stephenplusplus](https://github.com/stephenplusplus)**
+
+***
+
 
 ## Contribution
 
