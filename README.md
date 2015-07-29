@@ -62,6 +62,15 @@ Check out [awesome AMAs](https://github.com/sindresorhus/amas) to find AMAs of y
 
 ***
 
+***
+
+> **Q:** "What do you think comes after JS?" **– [@maxhoffmann](https://github.com/maxhoffmann)**
+
+> **A:** [Answer](https://github.com/passy/ama/issues/21#issuecomment-118410847)
+**– [@passy](https://github.com/passy)**
+
+***
+
 
 ## Contribution
 
