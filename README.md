@@ -71,6 +71,15 @@ Check out [awesome AMAs](https://github.com/sindresorhus/amas) to find AMAs of y
 
 ***
 
+***
+
+> **Q:** "How do I grow an Epic Beard like yours?" **– [@programatt](https://github.com/programatt)**
+
+> **A:** [Answer](https://github.com/ChrisMissal/ama/issues/9#issuecomment-126080220)
+**– [@ChrisMissal](https://github.com/ChrisMissal)** :neckbeard: 
+
+***
+
 
 ## Contribution
 
