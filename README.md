@@ -80,6 +80,17 @@ Check out [awesome AMAs](https://github.com/sindresorhus/amas) to find AMAs of y
 
 ***
 
+***
+
+> **Q:** "Not really a question, but this is how I always read your username, how does this image make you feel?" 
+>
+**– [@thejameskyle](https://github.com/thejameskyle)**
+
+> **A:** [Answer](https://github.com/sindresorhus/ama/issues/205#issuecomment-128644145)
+**– [@sindresorhus](https://github.com/sindresorhus)**
+
+***
+
 
 ## Contribution
 
