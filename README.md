@@ -89,6 +89,15 @@ Check out [awesome AMAs](https://github.com/sindresorhus/amas) to find AMAs of y
 
 ***
 
+***
+
+> **Q:** "Why people stress to use Immutable structures in javascript ?" **– [@annamalai-saro](https://github.com/annamalai-saro)**
+
+> **A:** [Answer](https://github.com/passy/ama/issues/46#issuecomment-123693652)
+**– [@passy](https://github.com/passy)**
+
+***
+
 
 ## Contribution
 
