@@ -98,6 +98,15 @@ Check out [awesome AMAs](https://github.com/sindresorhus/amas) to find AMAs of y
 
 ***
 
+***
+
+> **Q:** "Why do you travel?" **– [@sindresorhus](https://github.com/sindresorhus)**
+
+> **A:** [Answer](https://github.com/RichardLitt/ama/issues/2#issuecomment-129288735)
+**– [@RichardLitt](https://github.com/RichardLitt)**
+
+***
+
 
 ## Contribution
 
