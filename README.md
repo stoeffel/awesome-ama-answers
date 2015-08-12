@@ -107,6 +107,14 @@ Check out [awesome AMAs](https://github.com/sindresorhus/amas) to find AMAs of y
 
 ***
 
+***
+> **Q:** "What do you think about dinosaurs?" **– [@sindresorhus](https://github.com/sindresorhus)**
+
+> **A:** [Answer](https://github.com/RichardLitt/ama/issues/9#issuecomment-129928253)
+**– [@RichardLitt](https://github.com/RichardLitt)**
+
+***
+
 
 ## Contribution
 
