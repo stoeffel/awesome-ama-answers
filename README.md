@@ -115,6 +115,14 @@ Check out [awesome AMAs](https://github.com/sindresorhus/amas) to find AMAs of y
 
 ***
 
+***
+> **Q:** "In your opinion, what are some daily habits that made you a better developer." **– [@najela](https://github.com/najela)**
+
+> **A:** [Answer](https://github.com/holman/ama/issues/690#issuecomment-105297328)
+**– [@holman](https://github.com/holman)**
+
+***
+
 
 ## Contribution
 
