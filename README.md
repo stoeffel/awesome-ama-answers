@@ -123,6 +123,14 @@ Check out [awesome AMAs](https://github.com/sindresorhus/amas) to find AMAs of y
 
 ***
 
+***
+> **Q:** "How do you think the future of Haskell looks?" **– [@robbbz](https://github.com/robbbz)**
+
+> **A:** [Answer](https://github.com/passy/ama/issues/56#issuecomment-140141334)
+**– [@passy](https://github.com/passy)**
+
+***
+
 
 ## Contribution
 
