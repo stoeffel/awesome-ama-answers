@@ -131,6 +131,14 @@ Check out [awesome AMAs](https://github.com/sindresorhus/amas) to find AMAs of y
 
 ***
 
+***
+> **Q:** "Do you think getting a computer science degree is necessary?" **– [@ankurkaushal](https://github.com/ankurkaushal)**
+
+> **A:** [Answer](https://github.com/gaearon/ama/issues/53#issuecomment-142318849)
+**– [@gaearon](https://github.com/gaearon)**
+
+***
+
 
 ## Contribution
 
